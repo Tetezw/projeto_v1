@@ -1,4 +1,5 @@
-//jogo par ímpar
+//Jogo par ímpar
+
 function jogoParImpar() {
     return "Jogar!"
 }
